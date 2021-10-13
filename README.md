@@ -4,7 +4,7 @@ Parabéns por ter passado de fase e chegado no teste :)
 
 Estamos empenhados em encontrar pessoas que façam parte do nosso time de tecnologia e acreditamos que você tem as características que buscamos. Para isso, elaboramos um desafio para você e como somos um ecommerce, nada melhor do que o tema ser exatamente esse.
 
-### Tecnologias para esse projeto: Html, Css, Javascript, Angular, Java, JSP, Struts e PostgreSQL.
+### Tecnologias para esse projeto: Html, Css, Javascript, Angular, Java (SpringBoot e Struts), JSP e PostgreSQL.
 
 #### Instruções:
 
