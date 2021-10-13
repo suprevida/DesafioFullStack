@@ -14,7 +14,7 @@ Estamos empenhados em encontrar pessoas que façam parte do nosso time de tecnol
 
 - Mande um Pull Request com o que desenvolveu com seu nome completo no nome do PR.
 
-- Desenvolva uma Loja virtual que possua um basico de CRUD de produtos FRONT e BACK. Monte o layout de acordo com a sua imaginação.
+- Desenvolva uma Loja virtual que possua funcionalidades básicas de CRUD de produtos FRONT e BACK. Monte o layout de acordo com a sua imaginação.
 
 Pensamos em funcionalidades que julgamos essenciais para essa loja.
 
